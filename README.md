@@ -28,8 +28,8 @@ Not available from the Xaar website (please add more sources):
 
 ## References
 
-http://ytec3d.com/forum/viewtopic.php?t=47
-https://www.youtube.com/watch?v=dnBx0aCWNms
+- http://ytec3d.com/forum/viewtopic.php?t=47
+- https://www.youtube.com/watch?v=dnBx0aCWNms
 
 ## Adapters
 ### “GLUX” 30 > 21 Pin Adapter
